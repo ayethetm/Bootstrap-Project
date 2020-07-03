@@ -1,0 +1,32 @@
+body
+{
+	margin:0;
+	padding:0;
+	font-family: courier;
+}
+
+/*navigation*/
+.navbar-brand
+{
+	font-family: Lucida Console, Courier, monospace;
+	font-size: 1.5rem;	
+	font-color: #daa52c;
+}
+.navbar ul li
+{
+	font-size: 1.2rem;
+	font-family: courier;
+}
+.navbar ul li:hover
+{
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
